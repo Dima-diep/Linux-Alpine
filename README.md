@@ -5,5 +5,5 @@ OS system = Termux
 use it:
 ```
 $ chmod +x *
-$ ./Linux-Alpine-installer-iso.sh
+$ bash Linux-Alpine-installer-iso.sh
 ```
